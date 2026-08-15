@@ -122,7 +122,7 @@
             "last_commit": "2026-08-03T14:48:59Z",
             "owner": "Bearer",
             "repo": "bearer",
-            "stars": 2718
+            "stars": 2719
           }
         },
         {
@@ -147,10 +147,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T09:35:41Z",
+            "last_commit": "2026-08-14T14:01:58Z",
             "owner": "DataDog",
             "repo": "guarddog",
-            "stars": 1181
+            "stars": 1182
           }
         },
         {
@@ -161,7 +161,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T01:39:32Z",
+            "last_commit": "2026-08-14T23:20:23Z",
             "owner": "microsoft",
             "repo": "DevSkim",
             "stars": 1002
@@ -189,7 +189,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-10T05:55:06Z",
+            "last_commit": "2026-08-14T22:34:22Z",
             "owner": "NodeSecure",
             "repo": "cli",
             "stars": 384
@@ -273,7 +273,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T21:45:34Z",
+            "last_commit": "2026-08-14T19:35:12Z",
             "owner": "bahmutov",
             "repo": "ban-sensitive-files",
             "stars": 69
@@ -363,10 +363,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T06:09:31Z",
+            "last_commit": "2026-08-15T07:08:31Z",
             "owner": "cure53",
             "repo": "DOMPurify",
-            "stars": 17302
+            "stars": 17303
           }
         },
         {
@@ -380,7 +380,7 @@
             "last_commit": "2026-06-10T03:58:09Z",
             "owner": "af",
             "repo": "envalid",
-            "stars": 1581
+            "stars": 1582
           }
         }
       ],
@@ -434,7 +434,7 @@
             "last_commit": "2026-08-13T04:45:02Z",
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6023
+            "stars": 6029
           }
         },
         {
@@ -476,7 +476,7 @@
             "last_commit": "2024-08-19T18:22:25Z",
             "owner": "visma-prodsec",
             "repo": "confused",
-            "stars": 787
+            "stars": 788
           }
         },
         {
@@ -487,10 +487,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T16:07:53Z",
+            "last_commit": "2026-08-14T12:43:12Z",
             "owner": "OWASP",
             "repo": "cve-lite-cli",
-            "stars": 667
+            "stars": 668
           }
         },
         {
@@ -591,7 +591,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T00:20:51Z",
+            "last_commit": "2026-08-15T01:39:41Z",
             "owner": "LavaMoat",
             "repo": "LavaMoat",
             "stars": 1214
@@ -605,7 +605,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T22:51:02Z",
+            "last_commit": "2026-08-15T01:37:17Z",
             "owner": "endojs",
             "repo": "endo",
             "stars": 1044
@@ -622,7 +622,7 @@
             "last_commit": "2026-05-23T14:04:38Z",
             "owner": "pompelmi",
             "repo": "pompelmi",
-            "stars": 670
+            "stars": 671
           }
         },
         {
@@ -675,7 +675,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T13:07:15Z",
+            "last_commit": "2026-08-14T13:03:17Z",
             "owner": "firefart",
             "repo": "hijagger",
             "stars": 305
@@ -692,7 +692,7 @@
             "last_commit": "2026-08-10T04:44:25Z",
             "owner": "sigcli",
             "repo": "sigcli",
-            "stars": 280
+            "stars": 279
           }
         },
         {
@@ -835,7 +835,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-07-09T13:39:41Z",
+            "last_commit": "2026-08-14T17:07:08Z",
             "owner": "lirantal",
             "repo": "awesome-nodejs-security",
             "stars": 3023
@@ -891,9 +891,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:29:10.025Z",
+    "last_updated": "2026-08-15T09:45:29.677Z",
     "original_repository": "lirantal/awesome-nodejs-security",
-    "original_repository_sha": "a4be900cc0029c4af87e5a1f0c5e2ab99f8d8b64",
+    "original_repository_sha": "70d4d24e8f42a5120c6423267d1262f42962b4ba",
     "enhanced_repository": "enhansome/enhansome-nodejs-security",
     "enhanced_repository_description": null,
     "title": "Awesome Data Sources with stars"
