@@ -1,897 +1,952 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "nuxt-security",
-          "description": "🛡 Security Module for Nuxt based on OWASP Top 10 and Helmet.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-09T22:15:33Z",
-            "owner": "Baroshem",
-            "repo": "nuxt-security",
-            "stars": 977
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fastify-helmet",
-          "description": "fastify-helmet helps you secure your fastify apps by setting important security headers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-05T08:24:50Z",
-            "owner": "fastify",
-            "repo": "fastify-helmet",
-            "stars": 462
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "blankie",
-          "description": "CSP plugin for hapi.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-05-22T21:11:40Z",
-            "owner": "nlf",
-            "repo": "blankie",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "reporting-api",
-          "description": "Express middleware to collect CSP, COOP/COEP, Permissions-Policy, NEL, crash and deprecation reports (Reporting API v0/v1 and legacy report-uri).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-08T22:41:43Z",
-            "owner": "wille",
-            "repo": "reporting-api",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nis2-express-middleware",
-          "description": "Comprehensive Express.js middleware for EU NIS2 compliance (logging, active defense, and secure defaults).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-01-05T16:53:35Z",
-            "owner": "nis2shield",
-            "repo": "express-nis2-middleware",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Web Framework Hardening"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "New dependencies advisor",
-          "description": "GitHub Action adding comments to pull requests with package health information about newly added npm dependencies.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "OpenSSF Scorecard Monitor",
-          "description": "Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts.",
-          "children": []
-        }
-      ],
-      "title": "GitHub Actions and CI/CD Security"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "git-secrets",
-          "description": "Prevents you from committing secrets and credentials into git repositories.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-09-17T20:31:20Z",
-            "owner": "awslabs",
-            "repo": "git-secrets",
-            "stars": 13376
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bearer",
-          "description": "A CLI tool to find and help you fix security and privacy risks in your code according to OWASP Top 10.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T02:33:52Z",
-            "owner": "Bearer",
-            "repo": "bearer",
-            "stars": 2727
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NodeJSScan",
-          "description": "A static security code scanner for Node.js applications. Including neat UI that can point where the issue is and how to fix it.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2025-10-10T12:36:37Z",
-            "owner": "ajinabraham",
-            "repo": "nodejsscan",
-            "stars": 2570
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GuardDog",
-          "description": "GuardDog is a CLI tool to Identify malicious PyPI and npm packages",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T08:54:50Z",
-            "owner": "DataDog",
-            "repo": "guarddog",
-            "stars": 1184
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DevSkim",
-          "description": "DevSkim is a set of IDE plugins and rules that provide security \"linting\" capabilities. Also has support for CLI so it can be integrated into CI/CD pipeline.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-16T15:47:08Z",
-            "owner": "microsoft",
-            "repo": "DevSkim",
-            "stars": 1003
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lockfile-lint",
-          "description": "lint lockfiles for improved security and trust policies to keep clean from malicious package injection and other insecure configurations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-13T16:50:30Z",
-            "owner": "lirantal",
-            "repo": "lockfile-lint",
-            "stars": 865
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NodeSecure CLI",
-          "description": "Node.js CLI that allow you to deeply analyze the dependency tree of a given npm package or a directory.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T05:54:52Z",
-            "owner": "NodeSecure",
-            "repo": "cli",
-            "stars": 384
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "js-x-ray",
-          "description": "JavaScript and Node.js SAST scanner capable of detecting various well-known malicious code patterns (Unsafe import, Unsafe stmt, Unsafe RegEx, encoded literals, minified and obfuscated codes).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T09:07:24Z",
-            "owner": "NodeSecure",
-            "repo": "js-x-ray",
-            "stars": 285
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sdc-check",
-          "description": "Small tool to inform you about potential risks in your project dependencies list",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-11-21T14:43:36Z",
-            "owner": "mbalabash",
-            "repo": "sdc-check",
-            "stars": 141
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pkgsign",
-          "description": "A CLI tool for signing and verifying npm and yarn packages.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2019-07-29T05:58:17Z",
-            "owner": "RedpointArchive",
-            "repo": "pkgsign",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eslint-plugin-anti-trojan-source",
-          "description": "ESLint plugin to detect and prevent Trojan Source attacks from entering your codebase.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-22T15:44:53Z",
-            "owner": "lirantal",
-            "repo": "eslint-plugin-anti-trojan-source",
-            "stars": 80
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "regolith",
-          "description": "Regex library for TypeScript made to prevent ReDoS attacks I made TypeScript bindings for the Rust Regex library to prevent Regular Expression Denial of Service attacks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-26T03:55:03Z",
-            "owner": "JakeRoggenbuck",
-            "repo": "regolith",
-            "stars": 73
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ban-sensitive-files",
-          "description": "Checks filenames to be committed against a library of filename rules to prevent storing sensitive files in Git. Checks some files for sensitive contents (for example authToken inside .npmrc file).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-14T19:35:12Z",
-            "owner": "bahmutov",
-            "repo": "ban-sensitive-files",
-            "stars": 69
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Trust But Verify",
-          "description": "TBV compares an npm package with its source repository to ensure the resulting artifact is the same.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-02-12T05:28:26Z",
-            "owner": "verifynpm",
-            "repo": "tbv",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "repolyze",
-          "description": "Analyze a git source code repository for health signals and project vitals",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-15T11:39:11Z",
-            "owner": "lirantal",
-            "repo": "repolyze",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "npm-scan",
-          "description": "An extensible, heuristic-based vulnerability scanning tool for installed npm packages.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2021-08-10T20:50:13Z",
-            "owner": "spaceraccoon",
-            "repo": "npm-scan",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fix-lockfile-integrity",
-          "description": "A CLI tool to fix weak integrity hash (sha1) to a more secure integrity hash (sha512) in your npm lockfile.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T14:32:10Z",
-            "owner": "yoavain",
-            "repo": "fix-lockfile-integrity",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Static Code Analysis"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "validator",
-          "description": "An npm library of string validators and sanitizers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-15T19:20:16Z",
-            "owner": "validatorjs",
-            "repo": "validator.js",
-            "stars": 23737
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DOMPurify",
-          "description": "a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-16T00:56:45Z",
-            "owner": "cure53",
-            "repo": "DOMPurify",
-            "stars": 17311
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "envalid",
-          "description": "Envalid is a small library for validating and accessing environment variables in Node.js.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-10T03:58:09Z",
-            "owner": "af",
-            "repo": "envalid",
-            "stars": 1583
-          }
-        }
-      ],
-      "title": "Input Validation & Output Encoding"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "crumb",
-          "description": "CSRF crumb generation and validation for hapi.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-10-23T15:29:18Z",
-            "owner": "hapijs",
-            "repo": "crumb",
-            "stars": 170
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fastify-csrf",
-          "description": "A plugin for adding CSRF protection to fastify.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-05T04:44:06Z",
-            "owner": "fastify",
-            "repo": "csrf-protection",
-            "stars": 170
-          }
-        }
-      ],
-      "title": "CSRF"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "zizmor",
-          "description": "Static analysis for GitHub Actions and CI/CD workflows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T03:22:03Z",
-            "owner": "zizmorcore",
-            "repo": "zizmor",
-            "stars": 6282
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "is-website-vulnerable",
-          "description": "finds publicly known security vulnerabilities in a website's frontend JavaScript libraries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-07T11:42:40Z",
-            "owner": "lirantal",
-            "repo": "is-website-vulnerable",
-            "stars": 2034
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "npq",
-          "description": "Safely install packages with npm or yarn by auditing them as part of your install process.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-13T07:53:02Z",
-            "owner": "lirantal",
-            "repo": "npq",
-            "stars": 1783
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "confused",
-          "description": "Tool to check for dependency confusion vulnerabilities in multiple package management systems. See Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies for reference on the reasoning for this tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-08-19T18:22:25Z",
-            "owner": "visma-prodsec",
-            "repo": "confused",
-            "stars": 789
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cve-lite-cli",
-          "description": "OWASP Lab Project that scans npm, pnpm, Yarn, and Bun lockfiles locally against the OSV database, classifies findings as direct or transitive, and generates copy-and-run upgrade commands.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T16:06:24Z",
-            "owner": "OWASP",
-            "repo": "cve-lite-cli",
-            "stars": 670
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "auditjs",
-          "description": "Audits an NPM package.json file to identify known vulnerabilities using the OSSIndex.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-17T13:02:05Z",
-            "owner": "sonatype-nexus-community",
-            "repo": "auditjs",
-            "stars": 231
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gammaray",
-          "description": "Runs a security audit based on your package.json using the Node.js Security Working Group vulnerability data.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2020-02-06T15:50:56Z",
-            "owner": "nearform",
-            "repo": "gammaray",
-            "stars": 102
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "check-my-headers",
-          "description": "Fast and simple way to check any HTTP Headers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-06-25T11:02:12Z",
-            "owner": "UlisesGascon",
-            "repo": "check-my-headers",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "joi-security",
-          "description": "Detect security flaws in Joi validation schemas.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-06-16T14:17:44Z",
-            "owner": "kongbytes",
-            "repo": "joi-security",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nodejs-cve-checker",
-          "description": "A simple tool that validates CVEs were published to NVD after a Node.js Security Release.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-01-09T22:18:54Z",
-            "owner": "nodejs",
-            "repo": "nodejs-cve-checker",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "releaserun",
-          "description": "Scan project dependencies for end-of-life runtimes, known CVEs, and version health grades across 300+ products.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-15T17:30:37Z",
-            "owner": "Releaserun",
-            "repo": "releaserun-cli",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Vulnerabilities and Security Advisories"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "lavamoat",
-          "description": "Mitigates supply chain attacks using to confine third-party dependencies and limit their access to host powers based on policies generated by trust-on-first-use static analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T01:48:42Z",
-            "owner": "LavaMoat",
-            "repo": "LavaMoat",
-            "stars": 1216
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ses",
-          "description": "A shim for Hardened JavaScript, a language mode that mitigates prototype pollution attacks and supports safely confining multiple tenants in a single JavaScript realm, endowing each other with hardened API objects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T23:12:52Z",
-            "owner": "endojs",
-            "repo": "endo",
-            "stars": 1046
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pompelmi",
-          "description": "Local-first file upload scanning for Node.js to inspect untrusted files before storage.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-23T14:04:38Z",
-            "owner": "pompelmi",
-            "repo": "pompelmi",
-            "stars": 671
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fastify-rate-limit",
-          "description": "A low overhead rate limiter for your routes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-12T21:15:56Z",
-            "owner": "fastify",
-            "repo": "fastify-rate-limit",
-            "stars": 600
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "express-brute",
-          "description": "A brute-force protection middleware for express routes that rate-limits incoming requests, increasing the delay with each request in a fibonacci-like sequence.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-06-07T06:31:37Z",
-            "owner": "AdamPflug",
-            "repo": "express-brute",
-            "stars": 568
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "is-my-node-vulnerable",
-          "description": "package that checks if your Node.js installation is vulnerable to known security vulnerabilities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-01-30T19:28:59Z",
-            "owner": "nodejs",
-            "repo": "is-my-node-vulnerable",
-            "stars": 327
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hijagger",
-          "description": "Checks all maintainers of all npm and PyPI packages for hijackable packages through domain re-registration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-14T13:03:17Z",
-            "owner": "firefart",
-            "repo": "hijagger",
-            "stars": 305
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sigcli",
-          "description": "Authentication layer for AI agents. Local MITM proxy on 127.0.0.1 intercepts HTTPS and injects credentials (cookies, bearer tokens, custom headers) transparently — AI agents authenticate without ever seeing secrets. AES-256-GCM encrypted storage, browser SSO, 4 auth strategies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T09:08:04Z",
-            "owner": "sigcli",
-            "repo": "sigcli",
-            "stars": 279
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "secure-json-parse",
-          "description": "drop-in replacement with prototype poisoning protection.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-06T07:57:34Z",
-            "owner": "fastify",
-            "repo": "secure-json-parse",
-            "stars": 251
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "express-enforces-ssl",
-          "description": "Enforces SSL for Express based Node.js projects. It is however highly advised that you handle SSL and global HTTP rules in a front proxy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-12-08T03:53:53Z",
-            "owner": "hengkiardo",
-            "repo": "express-enforces-ssl",
-            "stars": 194
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FCaptcha",
-          "description": "Self-hosted CAPTCHA with behavioral analysis that detects bots, vision AI agents, and headless browsers. Includes Node.js server with SHA-256 proof of work.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-28T22:40:29Z",
-            "owner": "WebDecoy",
-            "repo": "FCaptcha",
-            "stars": 187
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bourne",
-          "description": "drop-in replacement with prototype poisoning protection.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-02T14:04:44Z",
-            "owner": "hapijs",
-            "repo": "bourne",
-            "stars": 180
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "verifyfetch",
-          "description": "SRI-based integrity verification and resumable downloads for large files. Protects against CDN compromise and supply chain attacks in the browser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-07T18:53:45Z",
-            "owner": "hamzaydia",
-            "repo": "verifyfetch",
-            "stars": 156
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "anti-trojan-source",
-          "description": "Detect trojan source attacks that employ unicode bidi attacks to inject malicious code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-23T18:57:48Z",
-            "owner": "lirantal",
-            "repo": "anti-trojan-source",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "snync",
-          "description": "Mitigate security concerns of Dependency Confusion supply chain security risks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-10T17:19:49Z",
-            "owner": "snyk-labs",
-            "repo": "snync",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NopPP - No Prototype Pollution",
-          "description": "Tiny helper to protect against Prototype Pollution vulnerabilities in your application regardless if they introduced in your own code or in 3rd-party code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-11-02T15:37:39Z",
-            "owner": "snyk-labs",
-            "repo": "nopp",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tor-detect-middleware",
-          "description": "Tor detect middleware for express",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-12-06T14:31:17Z",
-            "owner": "UlisesGascon",
-            "repo": "tor-detect-middleware",
-            "stars": 14
-          }
-        }
-      ],
-      "title": "Security Hardening"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "A Roadmap for Node.js Security",
-          "description": "(original domain https://nodesecroadmap.fyi/ not available. See #42)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-14T17:07:08Z",
-            "owner": "lirantal",
-            "repo": "awesome-nodejs-security",
-            "stars": 3023
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "npm Security Best Practices",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nuxt-security",
+              "description": "🛡 Security Module for Nuxt based on OWASP Top 10 and Helmet.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 547877672,
+                "language": "TypeScript",
+                "last_commit": "2026-08-09T22:15:33Z",
+                "owner": "Baroshem",
+                "repo": "nuxt-security",
+                "stars": 977
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fastify-helmet",
+              "description": "fastify-helmet helps you secure your fastify apps by setting important security headers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95896768,
+                "language": "JavaScript",
+                "last_commit": "2026-08-05T08:24:50Z",
+                "owner": "fastify",
+                "repo": "fastify-helmet",
+                "stars": 462
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "blankie",
+              "description": "CSP plugin for hapi.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21837885,
+                "language": "JavaScript",
+                "last_commit": "2023-05-22T21:11:40Z",
+                "owner": "nlf",
+                "repo": "blankie",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reporting-api",
+              "description": "Express middleware to collect CSP, COOP/COEP, Permissions-Policy, NEL, crash and deprecation reports (Reporting API v0/v1 and legacy report-uri).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 829350361,
+                "language": "TypeScript",
+                "last_commit": "2026-07-08T22:41:43Z",
+                "owner": "wille",
+                "repo": "reporting-api",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nis2-express-middleware",
+              "description": "Comprehensive Express.js middleware for EU NIS2 compliance (logging, active defense, and secure defaults).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1125495038,
+                "language": "TypeScript",
+                "last_commit": "2026-01-05T16:53:35Z",
+                "owner": "nis2shield",
+                "repo": "express-nis2-middleware",
+                "stars": 0
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-05-24T18:40:02Z",
-            "owner": "lirantal",
-            "repo": "npm-security-best-practices",
-            "stars": 1244
-          }
-        }
-      ],
-      "title": "Articles"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OWASP NodeGoat",
-          "description": "The OWASP NodeGoat project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-06-15T01:20:40Z",
-            "owner": "OWASP",
-            "repo": "NodeGoat",
-            "stars": 2061
-          }
+          "node_type": "group",
+          "title": "Web Framework Hardening"
         },
         {
-          "node_type": "item",
-          "title": "OWASP Juice Shop",
-          "description": "The OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.",
-          "children": []
+          "children": [
+            {
+              "node_type": "item",
+              "title": "git-secrets",
+              "description": "Prevents you from committing secrets and credentials into git repositories.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39160150,
+                "language": "Shell",
+                "last_commit": "2025-09-17T20:31:20Z",
+                "owner": "awslabs",
+                "repo": "git-secrets",
+                "stars": 13377
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bearer",
+              "description": "A CLI tool to find and help you fix security and privacy risks in your code according to OWASP Top 10.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542197924,
+                "language": "Go",
+                "last_commit": "2026-08-17T02:33:52Z",
+                "owner": "Bearer",
+                "repo": "bearer",
+                "stars": 2729
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NodeJSScan",
+              "description": "A static security code scanner for Node.js applications. Including neat UI that can point where the issue is and how to fix it.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31419036,
+                "language": "CSS",
+                "last_commit": "2025-10-10T12:36:37Z",
+                "owner": "ajinabraham",
+                "repo": "nodejsscan",
+                "stars": 2570
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GuardDog",
+              "description": "GuardDog is a CLI tool to Identify malicious PyPI and npm packages",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 503403377,
+                "language": "Python",
+                "last_commit": "2026-08-19T08:13:29Z",
+                "owner": "DataDog",
+                "repo": "guarddog",
+                "stars": 1184
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DevSkim",
+              "description": "DevSkim is a set of IDE plugins and rules that provide security \"linting\" capabilities. Also has support for CLI so it can be integrated into CI/CD pipeline.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64857273,
+                "language": "C#",
+                "last_commit": "2026-08-16T15:47:08Z",
+                "owner": "microsoft",
+                "repo": "DevSkim",
+                "stars": 1002
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lockfile-lint",
+              "description": "lint lockfiles for improved security and trust policies to keep clean from malicious package injection and other insecure configurations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 189734318,
+                "language": "JavaScript",
+                "last_commit": "2026-08-13T16:50:30Z",
+                "owner": "lirantal",
+                "repo": "lockfile-lint",
+                "stars": 866
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NodeSecure CLI",
+              "description": "Node.js CLI that allow you to deeply analyze the dependency tree of a given npm package or a directory.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194930898,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T05:54:52Z",
+                "owner": "NodeSecure",
+                "repo": "cli",
+                "stars": 384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "js-x-ray",
+              "description": "JavaScript and Node.js SAST scanner capable of detecting various well-known malicious code patterns (Unsafe import, Unsafe stmt, Unsafe RegEx, encoded literals, minified and obfuscated codes).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250373441,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T09:07:24Z",
+                "owner": "NodeSecure",
+                "repo": "js-x-ray",
+                "stars": 285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sdc-check",
+              "description": "Small tool to inform you about potential risks in your project dependencies list",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 474093631,
+                "language": "TypeScript",
+                "last_commit": "2023-11-21T14:43:36Z",
+                "owner": "mbalabash",
+                "repo": "sdc-check",
+                "stars": 141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pkgsign",
+              "description": "A CLI tool for signing and verifying npm and yarn packages.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 116551403,
+                "language": "TypeScript",
+                "last_commit": "2019-07-29T05:58:17Z",
+                "owner": "RedpointArchive",
+                "repo": "pkgsign",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eslint-plugin-anti-trojan-source",
+              "description": "ESLint plugin to detect and prevent Trojan Source attacks from entering your codebase.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 425297424,
+                "language": "JavaScript",
+                "last_commit": "2026-06-22T15:44:53Z",
+                "owner": "lirantal",
+                "repo": "eslint-plugin-anti-trojan-source",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "regolith",
+              "description": "Regex library for TypeScript made to prevent ReDoS attacks I made TypeScript bindings for the Rust Regex library to prevent Regular Expression Denial of Service attacks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1003296512,
+                "language": "JavaScript",
+                "last_commit": "2026-07-26T03:55:03Z",
+                "owner": "JakeRoggenbuck",
+                "repo": "regolith",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ban-sensitive-files",
+              "description": "Checks filenames to be committed against a library of filename rules to prevent storing sensitive files in Git. Checks some files for sensitive contents (for example authToken inside .npmrc file).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47205638,
+                "language": "JavaScript",
+                "last_commit": "2026-08-14T19:35:12Z",
+                "owner": "bahmutov",
+                "repo": "ban-sensitive-files",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Trust But Verify",
+              "description": "TBV compares an npm package with its source repository to ensure the resulting artifact is the same.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164267015,
+                "language": "TypeScript",
+                "last_commit": "2022-02-12T05:28:26Z",
+                "owner": "verifynpm",
+                "repo": "tbv",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "repolyze",
+              "description": "Analyze a git source code repository for health signals and project vitals",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1212187905,
+                "language": "TypeScript",
+                "last_commit": "2026-08-15T11:39:11Z",
+                "owner": "lirantal",
+                "repo": "repolyze",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "npm-scan",
+              "description": "An extensible, heuristic-based vulnerability scanning tool for installed npm packages.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 160127846,
+                "language": "JavaScript",
+                "last_commit": "2021-08-10T20:50:13Z",
+                "owner": "spaceraccoon",
+                "repo": "npm-scan",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fix-lockfile-integrity",
+              "description": "A CLI tool to fix weak integrity hash (sha1) to a more secure integrity hash (sha512) in your npm lockfile.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 534521237,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T14:32:10Z",
+                "owner": "yoavain",
+                "repo": "fix-lockfile-integrity",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Static Code Analysis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "validator",
+              "description": "An npm library of string validators and sanitizers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 965782,
+                "language": "JavaScript",
+                "last_commit": "2026-08-15T19:20:16Z",
+                "owner": "validatorjs",
+                "repo": "validator.js",
+                "stars": 23737
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DOMPurify",
+              "description": "a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16927692,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T09:15:39Z",
+                "owner": "cure53",
+                "repo": "DOMPurify",
+                "stars": 17315
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "envalid",
+              "description": "Envalid is a small library for validating and accessing environment variables in Node.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6915703,
+                "language": "TypeScript",
+                "last_commit": "2026-06-10T03:58:09Z",
+                "owner": "af",
+                "repo": "envalid",
+                "stars": 1584
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Input Validation & Output Encoding"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "crumb",
+              "description": "CSRF crumb generation and validation for hapi.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8084734,
+                "language": "JavaScript",
+                "last_commit": "2024-10-23T15:29:18Z",
+                "owner": "hapijs",
+                "repo": "crumb",
+                "stars": 170
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fastify-csrf",
+              "description": "A plugin for adding CSRF protection to fastify.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164392385,
+                "language": "JavaScript",
+                "last_commit": "2026-08-05T04:44:06Z",
+                "owner": "fastify",
+                "repo": "csrf-protection",
+                "stars": 170
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CSRF"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "zizmor",
+              "description": "Static analysis for GitHub Actions and CI/CD workflows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 844670429,
+                "language": "Rust",
+                "last_commit": "2026-08-18T03:22:03Z",
+                "owner": "zizmorcore",
+                "repo": "zizmor",
+                "stars": 6335
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "is-website-vulnerable",
+              "description": "finds publicly known security vulnerabilities in a website's frontend JavaScript libraries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 212983914,
+                "language": "JavaScript",
+                "last_commit": "2026-08-07T11:42:40Z",
+                "owner": "lirantal",
+                "repo": "is-website-vulnerable",
+                "stars": 2034
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "npq",
+              "description": "Safely install packages with npm or yarn by auditing them as part of your install process.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114298694,
+                "language": "JavaScript",
+                "last_commit": "2026-08-13T07:53:02Z",
+                "owner": "lirantal",
+                "repo": "npq",
+                "stars": 1783
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "confused",
+              "description": "Tool to check for dependency confusion vulnerabilities in multiple package management systems. See Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies for reference on the reasoning for this tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 337669904,
+                "language": "Go",
+                "last_commit": "2024-08-19T18:22:25Z",
+                "owner": "visma-prodsec",
+                "repo": "confused",
+                "stars": 789
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cve-lite-cli",
+              "description": "OWASP Lab Project that scans npm, pnpm, Yarn, and Bun lockfiles locally against the OSV database, classifies findings as direct or transitive, and generates copy-and-run upgrade commands.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1194046227,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T12:40:50Z",
+                "owner": "OWASP",
+                "repo": "cve-lite-cli",
+                "stars": 670
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "auditjs",
+              "description": "Audits an NPM package.json file to identify known vulnerabilities using the OSSIndex.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41720656,
+                "language": "TypeScript",
+                "last_commit": "2026-06-17T13:02:05Z",
+                "owner": "sonatype-nexus-community",
+                "repo": "auditjs",
+                "stars": 231
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gammaray",
+              "description": "Runs a security audit based on your package.json using the Node.js Security Working Group vulnerability data.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 120004419,
+                "language": "Go",
+                "last_commit": "2020-02-06T15:50:56Z",
+                "owner": "nearform",
+                "repo": "gammaray",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "check-my-headers",
+              "description": "Fast and simple way to check any HTTP Headers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 239619939,
+                "language": "JavaScript",
+                "last_commit": "2023-06-25T11:02:12Z",
+                "owner": "UlisesGascon",
+                "repo": "check-my-headers",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "joi-security",
+              "description": "Detect security flaws in Joi validation schemas.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 255750278,
+                "language": "TypeScript",
+                "last_commit": "2024-06-16T14:17:44Z",
+                "owner": "kongbytes",
+                "repo": "joi-security",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nodejs-cve-checker",
+              "description": "A simple tool that validates CVEs were published to NVD after a Node.js Security Release.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 730391782,
+                "language": "JavaScript",
+                "last_commit": "2025-01-09T22:18:54Z",
+                "owner": "nodejs",
+                "repo": "nodejs-cve-checker",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "releaserun",
+              "description": "Scan project dependencies for end-of-life runtimes, known CVEs, and version health grades across 300+ products.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1164939146,
+                "language": "TypeScript",
+                "last_commit": "2026-03-15T17:30:37Z",
+                "owner": "Releaserun",
+                "repo": "releaserun-cli",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vulnerabilities and Security Advisories"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lavamoat",
+              "description": "Mitigates supply chain attacks using to confine third-party dependencies and limit their access to host powers based on policies generated by trust-on-first-use static analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162776776,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T09:33:49Z",
+                "owner": "LavaMoat",
+                "repo": "LavaMoat",
+                "stars": 1216
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ses",
+              "description": "A shim for Hardened JavaScript, a language mode that mitigates prototype pollution attacks and supports safely confining multiple tenants in a single JavaScript realm, endowing each other with hardened API objects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 220080707,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T23:12:52Z",
+                "owner": "endojs",
+                "repo": "endo",
+                "stars": 1048
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pompelmi",
+              "description": "Local-first file upload scanning for Node.js to inspect untrusted files before storage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1026124833,
+                "language": "JavaScript",
+                "last_commit": "2026-05-23T14:04:38Z",
+                "owner": "pompelmi",
+                "repo": "pompelmi",
+                "stars": 671
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fastify-rate-limit",
+              "description": "A low overhead rate limiter for your routes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121857178,
+                "language": "JavaScript",
+                "last_commit": "2026-08-12T21:15:56Z",
+                "owner": "fastify",
+                "repo": "fastify-rate-limit",
+                "stars": 600
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "express-brute",
+              "description": "A brute-force protection middleware for express routes that rate-limits incoming requests, increasing the delay with each request in a fibonacci-like sequence.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11942659,
+                "language": "JavaScript",
+                "last_commit": "2021-06-07T06:31:37Z",
+                "owner": "AdamPflug",
+                "repo": "express-brute",
+                "stars": 568
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "is-my-node-vulnerable",
+              "description": "package that checks if your Node.js installation is vulnerable to known security vulnerabilities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 591443636,
+                "language": "JavaScript",
+                "last_commit": "2026-01-30T19:28:59Z",
+                "owner": "nodejs",
+                "repo": "is-my-node-vulnerable",
+                "stars": 327
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hijagger",
+              "description": "Checks all maintainers of all npm and PyPI packages for hijackable packages through domain re-registration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 498881798,
+                "language": "Go",
+                "last_commit": "2026-08-14T13:03:17Z",
+                "owner": "firefart",
+                "repo": "hijagger",
+                "stars": 306
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sigcli",
+              "description": "Authentication layer for AI agents. Local MITM proxy on 127.0.0.1 intercepts HTTPS and injects credentials (cookies, bearer tokens, custom headers) transparently — AI agents authenticate without ever seeing secrets. AES-256-GCM encrypted storage, browser SSO, 4 auth strategies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1214459508,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T17:03:03Z",
+                "owner": "sigcli",
+                "repo": "sigcli",
+                "stars": 280
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "secure-json-parse",
+              "description": "drop-in replacement with prototype poisoning protection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184086411,
+                "language": "JavaScript",
+                "last_commit": "2026-08-06T07:57:34Z",
+                "owner": "fastify",
+                "repo": "secure-json-parse",
+                "stars": 251
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "express-enforces-ssl",
+              "description": "Enforces SSL for Express based Node.js projects. It is however highly advised that you handle SSL and global HTTP rules in a front proxy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20122283,
+                "language": "JavaScript",
+                "last_commit": "2020-12-08T03:53:53Z",
+                "owner": "hengkiardo",
+                "repo": "express-enforces-ssl",
+                "stars": 194
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FCaptcha",
+              "description": "Self-hosted CAPTCHA with behavioral analysis that detects bots, vision AI agents, and headless browsers. Includes Node.js server with SHA-256 proof of work.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1124476057,
+                "language": "JavaScript",
+                "last_commit": "2026-07-28T22:40:29Z",
+                "owner": "WebDecoy",
+                "repo": "FCaptcha",
+                "stars": 188
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bourne",
+              "description": "drop-in replacement with prototype poisoning protection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 168399699,
+                "language": "JavaScript",
+                "last_commit": "2026-07-02T14:04:44Z",
+                "owner": "hapijs",
+                "repo": "bourne",
+                "stars": 180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "verifyfetch",
+              "description": "SRI-based integrity verification and resumable downloads for large files. Protects against CDN compromise and supply chain attacks in the browser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1141810923,
+                "language": "TypeScript",
+                "last_commit": "2026-04-07T18:53:45Z",
+                "owner": "hamzaydia",
+                "repo": "verifyfetch",
+                "stars": 156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "anti-trojan-source",
+              "description": "Detect trojan source attacks that employ unicode bidi attacks to inject malicious code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 424958916,
+                "language": "JavaScript",
+                "last_commit": "2026-07-23T18:57:48Z",
+                "owner": "lirantal",
+                "repo": "anti-trojan-source",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "snync",
+              "description": "Mitigate security concerns of Dependency Confusion supply chain security risks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 368465729,
+                "language": "JavaScript",
+                "last_commit": "2026-07-10T17:19:49Z",
+                "owner": "snyk-labs",
+                "repo": "snync",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NopPP - No Prototype Pollution",
+              "description": "Tiny helper to protect against Prototype Pollution vulnerabilities in your application regardless if they introduced in your own code or in 3rd-party code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 393048877,
+                "language": "JavaScript",
+                "last_commit": "2022-11-02T15:37:39Z",
+                "owner": "snyk-labs",
+                "repo": "nopp",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tor-detect-middleware",
+              "description": "Tor detect middleware for express",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206923937,
+                "language": "JavaScript",
+                "last_commit": "2023-12-06T14:31:17Z",
+                "owner": "UlisesGascon",
+                "repo": "tor-detect-middleware",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Security Hardening"
         }
       ],
-      "title": "Hacking Playground"
+      "title": "Tools"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "License"
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A Roadmap for Node.js Security",
+              "description": "(original domain https://nodesecroadmap.fyi/ not available. See #42)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154401464,
+                "language": null,
+                "last_commit": "2026-08-14T17:07:08Z",
+                "owner": "lirantal",
+                "repo": "awesome-nodejs-security",
+                "stars": 3023
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "npm Security Best Practices",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1068329305,
+                "language": null,
+                "last_commit": "2026-05-24T18:40:02Z",
+                "owner": "lirantal",
+                "repo": "npm-security-best-practices",
+                "stars": 1245
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Articles"
+        }
+      ],
+      "title": "Educational"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OWASP NodeGoat",
+              "description": "The OWASP NodeGoat project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13752333,
+                "language": "HTML",
+                "last_commit": "2024-06-15T01:20:40Z",
+                "owner": "OWASP",
+                "repo": "NodeGoat",
+                "stars": 2061
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hacking Playground"
+        }
+      ],
+      "title": "Companies"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:53:54.427Z",
+    "last_updated": "2026-08-19T09:54:24.032Z",
     "original_repository": "lirantal/awesome-nodejs-security",
     "original_repository_sha": "70d4d24e8f42a5120c6423267d1262f42962b4ba",
     "enhanced_repository": "enhansome/enhansome-nodejs-security",
