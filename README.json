@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 95896768,
                 "language": "JavaScript",
-                "last_commit": "2026-08-05T08:24:50Z",
+                "last_commit": "2026-08-19T10:01:16Z",
                 "owner": "fastify",
                 "repo": "fastify-helmet",
                 "stars": 462
@@ -373,7 +373,7 @@
                 "archived": false,
                 "id": 16927692,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T09:15:39Z",
+                "last_commit": "2026-08-19T11:57:28Z",
                 "owner": "cure53",
                 "repo": "DOMPurify",
                 "stars": 17315
@@ -403,21 +403,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "crumb",
-              "description": "CSRF crumb generation and validation for hapi.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 8084734,
-                "language": "JavaScript",
-                "last_commit": "2024-10-23T15:29:18Z",
-                "owner": "hapijs",
-                "repo": "crumb",
-                "stars": 170
-              }
-            },
-            {
-              "node_type": "item",
               "title": "fastify-csrf",
               "description": "A plugin for adding CSRF protection to fastify.",
               "children": [],
@@ -428,6 +413,21 @@
                 "last_commit": "2026-08-05T04:44:06Z",
                 "owner": "fastify",
                 "repo": "csrf-protection",
+                "stars": 171
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "crumb",
+              "description": "CSRF crumb generation and validation for hapi.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8084734,
+                "language": "JavaScript",
+                "last_commit": "2024-10-23T15:29:18Z",
+                "owner": "hapijs",
+                "repo": "crumb",
                 "stars": 170
               }
             }
@@ -450,7 +450,7 @@
                 "last_commit": "2026-08-18T03:22:03Z",
                 "owner": "zizmorcore",
                 "repo": "zizmor",
-                "stars": 6335
+                "stars": 6337
               }
             },
             {
@@ -507,7 +507,7 @@
                 "archived": false,
                 "id": 1194046227,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T12:40:50Z",
+                "last_commit": "2026-08-19T12:27:55Z",
                 "owner": "OWASP",
                 "repo": "cve-lite-cli",
                 "stars": 670
@@ -619,7 +619,7 @@
                 "archived": false,
                 "id": 162776776,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T09:33:49Z",
+                "last_commit": "2026-08-19T12:28:55Z",
                 "owner": "LavaMoat",
                 "repo": "LavaMoat",
                 "stars": 1216
@@ -709,7 +709,7 @@
                 "archived": false,
                 "id": 498881798,
                 "language": "Go",
-                "last_commit": "2026-08-14T13:03:17Z",
+                "last_commit": "2026-08-19T12:43:06Z",
                 "owner": "firefart",
                 "repo": "hijagger",
                 "stars": 306
@@ -727,7 +727,7 @@
                 "last_commit": "2026-08-18T17:03:03Z",
                 "owner": "sigcli",
                 "repo": "sigcli",
-                "stars": 280
+                "stars": 281
               }
             },
             {
@@ -772,7 +772,7 @@
                 "last_commit": "2026-07-28T22:40:29Z",
                 "owner": "WebDecoy",
                 "repo": "FCaptcha",
-                "stars": 188
+                "stars": 189
               }
             },
             {
@@ -946,8 +946,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:54:24.032Z",
+    "last_updated": "2026-08-19T12:45:06.383Z",
     "original_repository": "lirantal/awesome-nodejs-security",
+    "original_repository_id": 154401464,
     "original_repository_sha": "70d4d24e8f42a5120c6423267d1262f42962b4ba",
     "enhanced_repository": "enhansome/enhansome-nodejs-security",
     "enhanced_repository_description": null,
