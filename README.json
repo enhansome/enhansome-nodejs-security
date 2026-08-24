@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-24T09:52:10Z",
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2734
+                "stars": 2735
               }
             },
             {
@@ -376,7 +376,7 @@
                 "last_commit": "2026-08-24T06:24:16Z",
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17325
+                "stars": 17326
               }
             },
             {
@@ -447,10 +447,10 @@
                 "archived": false,
                 "id": 844670429,
                 "language": "Rust",
-                "last_commit": "2026-08-23T22:28:18Z",
+                "last_commit": "2026-08-24T13:36:40Z",
                 "owner": "zizmorcore",
                 "repo": "zizmor",
-                "stars": 6377
+                "stars": 6379
               }
             },
             {
@@ -507,7 +507,7 @@
                 "archived": false,
                 "id": 1194046227,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T04:47:36Z",
+                "last_commit": "2026-08-24T12:57:10Z",
                 "owner": "OWASP",
                 "repo": "cve-lite-cli",
                 "stars": 680
@@ -772,7 +772,7 @@
                 "last_commit": "2026-08-23T20:22:42Z",
                 "owner": "WebDecoy",
                 "repo": "FCaptcha",
-                "stars": 192
+                "stars": 193
               }
             },
             {
@@ -864,6 +864,21 @@
                 "repo": "tor-detect-middleware",
                 "stars": 14
               }
+            },
+            {
+              "node_type": "item",
+              "title": "resource",
+              "description": "The GitHub repository maintains a directory with all the CVEs applied to Node.js runtime versions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75093520,
+                "language": "Go",
+                "last_commit": "2026-08-21T18:58:59Z",
+                "owner": "nodejs",
+                "repo": "security-wg",
+                "stars": 546
+              }
             }
           ],
           "description": null,
@@ -872,6 +887,176 @@
         }
       ],
       "title": "Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The Open Souce Peace",
+              "description": "organization maintains a list of identified protestware incidents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 471346006,
+                "language": null,
+                "last_commit": "2022-07-11T13:16:32Z",
+                "owner": "open-source-peace",
+                "repo": "protestware-list",
+                "stars": 79
+              }
+            }
+          ],
+          "description": "The following is a list of known protestware spanning across other ecosystems too:\nArticles covering the topics around protestware are:",
+          "node_type": "group",
+          "title": "Protestware supply chain security issues"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "2026 Mar 31",
+              "description": "Axios npm Package Compromised: Supply Chain Attack Delivers Cross-Platform RAT Snyk, Axios post-mortem on GitHub issue, Mandaint report on UNC1069 involvement in Axios compromise",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23088740,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T13:40:39Z",
+                "owner": "axios",
+                "repo": "axios",
+                "stars": 109202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2024 Dec 20",
+              "description": "and at 400k weekly downloads were compromised due to npm token theft and used to publish malicious packages for monero cryptocurrency mining rspack release notes, sonatype, Socket",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 476642602,
+                "language": "Rust",
+                "last_commit": "2026-08-24T13:30:53Z",
+                "owner": "web-infra-dev",
+                "repo": "rspack",
+                "stars": 12868
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2022 Mar 18",
+              "description": "More protestware from and Snyk advisory for event-source-pollyfill, es5-ext commit, ArsTechnica",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1792941,
+                "language": "JavaScript",
+                "last_commit": "2025-05-09T10:21:10Z",
+                "owner": "medikoo",
+                "repo": "es5-ext",
+                "stars": 179
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2021 October 22",
+              "description": "ua-parser-js - Versions of a popular NPM package named ua-parser-js was found to contain malicious code Cybersecurity and Infrastructure Security Agency (CISA), github issue, IOCs, portswigger, theregister",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3320710,
+                "language": "JavaScript",
+                "last_commit": "2026-08-23T12:48:23Z",
+                "owner": "faisalman",
+                "repo": "ua-parser-js",
+                "stars": 10180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2018 November 27",
+              "description": "event-stream - malicious code found in npm package event-stream. github issue snyk, snyk's postmortem, schneid, intrinsic, npm, jayden, hillel wayne's postmortem",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 2242185,
+                "language": "JavaScript",
+                "last_commit": "2018-11-27T10:44:39Z",
+                "owner": "dominictarr",
+                "repo": "event-stream",
+                "stars": 2175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2018 July 12",
+              "description": "eslint - malicious packages found in npm package eslint-scope and eslint-config-eslint. github issue, eslint tweet, eslint's postmortem, nodesource's postmortem, npm's statement",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 78957124,
+                "language": "JavaScript",
+                "last_commit": "2024-08-15T16:02:38Z",
+                "owner": "eslint",
+                "repo": "eslint-scope",
+                "stars": 127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2018 May 02",
+              "description": "getcookies - malicious package getcookies gets embedded in higher-level express related packages. GitHub issue, npm, bleepingcomputer.com, Snyk’s getcookies vulnerability page, Hacker News",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35866694,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T13:48:33Z",
+                "owner": "RocketChat",
+                "repo": "Rocket.Chat",
+                "stars": 46025
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2018 Feb 13",
+              "description": "maintainer account with access to conventional-changelog npm package compromised and published malware for 1 day and 11 hours conventional-changelog repository update",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15639771,
+                "language": "TypeScript",
+                "last_commit": "2026-08-23T17:03:45Z",
+                "owner": "conventional-changelog",
+                "repo": "conventional-changelog",
+                "stars": 8500
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "npm zoo",
+              "description": "is an archive keeping track of the original malicious packages source code for educational purposes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 166541826,
+                "language": "Python",
+                "last_commit": "2022-12-08T01:33:12Z",
+                "owner": "spaceraccoon",
+                "repo": "npm-zoo",
+                "stars": 20
+              }
+            }
+          ],
+          "description": "Collection of security incidents that happened in the Node.js, JavaScript and npm related communities with supporting articles:\nFollow-up notes:",
+          "node_type": "group",
+          "title": "npm and JavaScript specific security incidents and supply chain security issues"
+        }
+      ],
+      "title": "Security Incidents"
     },
     {
       "description": null,
@@ -905,13 +1090,35 @@
                 "last_commit": "2026-05-24T18:40:02Z",
                 "owner": "lirantal",
                 "repo": "npm-security-best-practices",
-                "stars": 1246
+                "stars": 1247
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Articles"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Thomas Gentilhomme",
+              "description": "book: Become a Node.js Developer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 408221789,
+                "language": "JavaScript",
+                "last_commit": "2026-02-16T01:24:12Z",
+                "owner": "fraxken",
+                "repo": "ebook_nodejs",
+                "stars": 685
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Books"
         }
       ],
       "title": "Educational"
@@ -946,7 +1153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:08:02.983Z",
+    "last_updated": "2026-08-24T14:01:42.830Z",
     "original_repository": "lirantal/awesome-nodejs-security",
     "original_repository_id": 154401464,
     "original_repository_sha": "70d4d24e8f42a5120c6423267d1262f42962b4ba",
