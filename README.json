@@ -141,7 +141,7 @@
                 "archived": false,
                 "id": 503403377,
                 "language": "Python",
-                "last_commit": "2026-08-19T08:13:29Z",
+                "last_commit": "2026-08-25T08:17:21Z",
                 "owner": "DataDog",
                 "repo": "guarddog",
                 "stars": 1189
@@ -159,7 +159,7 @@
                 "last_commit": "2026-08-16T15:47:08Z",
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1003
+                "stars": 1004
               }
             },
             {
@@ -376,7 +376,7 @@
                 "last_commit": "2026-08-24T06:24:16Z",
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17331
+                "stars": 17333
               }
             },
             {
@@ -450,7 +450,7 @@
                 "last_commit": "2026-08-25T00:09:26Z",
                 "owner": "zizmorcore",
                 "repo": "zizmor",
-                "stars": 6384
+                "stars": 6385
               }
             },
             {
@@ -477,7 +477,7 @@
                 "archived": false,
                 "id": 114298694,
                 "language": "JavaScript",
-                "last_commit": "2026-08-13T07:53:02Z",
+                "last_commit": "2026-08-25T06:40:56Z",
                 "owner": "lirantal",
                 "repo": "npq",
                 "stars": 1789
@@ -652,7 +652,7 @@
                 "last_commit": "2026-05-23T14:04:38Z",
                 "owner": "pompelmi",
                 "repo": "pompelmi",
-                "stars": 673
+                "stars": 674
               }
             },
             {
@@ -927,7 +927,7 @@
                 "last_commit": "2026-08-24T13:40:39Z",
                 "owner": "axios",
                 "repo": "axios",
-                "stars": 109202
+                "stars": 109203
               }
             },
             {
@@ -939,10 +939,10 @@
                 "archived": false,
                 "id": 476642602,
                 "language": "Rust",
-                "last_commit": "2026-08-25T05:38:39Z",
+                "last_commit": "2026-08-25T09:54:23Z",
                 "owner": "web-infra-dev",
                 "repo": "rspack",
-                "stars": 12870
+                "stars": 12871
               }
             },
             {
@@ -1014,10 +1014,10 @@
                 "archived": false,
                 "id": 35866694,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T05:47:24Z",
+                "last_commit": "2026-08-25T07:06:23Z",
                 "owner": "RocketChat",
                 "repo": "Rocket.Chat",
-                "stars": 46026
+                "stars": 46027
               }
             },
             {
@@ -1153,7 +1153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:53:58.909Z",
+    "last_updated": "2026-08-25T09:56:29.459Z",
     "original_repository": "lirantal/awesome-nodejs-security",
     "original_repository_id": 154401464,
     "original_repository_sha": "70d4d24e8f42a5120c6423267d1262f42962b4ba",
