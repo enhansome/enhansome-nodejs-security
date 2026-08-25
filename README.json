@@ -111,10 +111,10 @@
                 "archived": false,
                 "id": 542197924,
                 "language": "Go",
-                "last_commit": "2026-08-24T09:52:10Z",
+                "last_commit": "2026-08-24T17:09:00Z",
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2735
+                "stars": 2737
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-19T08:13:29Z",
                 "owner": "DataDog",
                 "repo": "guarddog",
-                "stars": 1190
+                "stars": 1189
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-08-13T16:50:30Z",
                 "owner": "lirantal",
                 "repo": "lockfile-lint",
-                "stars": 866
+                "stars": 868
               }
             },
             {
@@ -376,7 +376,7 @@
                 "last_commit": "2026-08-24T06:24:16Z",
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17326
+                "stars": 17331
               }
             },
             {
@@ -391,7 +391,7 @@
                 "last_commit": "2026-08-21T13:33:57Z",
                 "owner": "af",
                 "repo": "envalid",
-                "stars": 1587
+                "stars": 1588
               }
             }
           ],
@@ -447,10 +447,10 @@
                 "archived": false,
                 "id": 844670429,
                 "language": "Rust",
-                "last_commit": "2026-08-24T13:36:40Z",
+                "last_commit": "2026-08-25T00:09:26Z",
                 "owner": "zizmorcore",
                 "repo": "zizmor",
-                "stars": 6379
+                "stars": 6384
               }
             },
             {
@@ -480,7 +480,7 @@
                 "last_commit": "2026-08-13T07:53:02Z",
                 "owner": "lirantal",
                 "repo": "npq",
-                "stars": 1788
+                "stars": 1789
               }
             },
             {
@@ -619,7 +619,7 @@
                 "archived": false,
                 "id": 162776776,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T22:58:00Z",
+                "last_commit": "2026-08-24T22:02:04Z",
                 "owner": "LavaMoat",
                 "repo": "LavaMoat",
                 "stars": 1217
@@ -634,7 +634,7 @@
                 "archived": false,
                 "id": 220080707,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T18:22:50Z",
+                "last_commit": "2026-08-24T22:24:01Z",
                 "owner": "endojs",
                 "repo": "endo",
                 "stars": 1049
@@ -939,10 +939,10 @@
                 "archived": false,
                 "id": 476642602,
                 "language": "Rust",
-                "last_commit": "2026-08-24T13:30:53Z",
+                "last_commit": "2026-08-25T05:38:39Z",
                 "owner": "web-infra-dev",
                 "repo": "rspack",
-                "stars": 12868
+                "stars": 12870
               }
             },
             {
@@ -969,7 +969,7 @@
                 "archived": false,
                 "id": 3320710,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T12:48:23Z",
+                "last_commit": "2026-08-24T15:56:44Z",
                 "owner": "faisalman",
                 "repo": "ua-parser-js",
                 "stars": 10180
@@ -1014,10 +1014,10 @@
                 "archived": false,
                 "id": 35866694,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:48:33Z",
+                "last_commit": "2026-08-25T05:47:24Z",
                 "owner": "RocketChat",
                 "repo": "Rocket.Chat",
-                "stars": 46025
+                "stars": 46026
               }
             },
             {
@@ -1075,7 +1075,7 @@
                 "last_commit": "2026-08-14T17:07:08Z",
                 "owner": "lirantal",
                 "repo": "awesome-nodejs-security",
-                "stars": 3025
+                "stars": 3026
               }
             },
             {
@@ -1090,7 +1090,7 @@
                 "last_commit": "2026-05-24T18:40:02Z",
                 "owner": "lirantal",
                 "repo": "npm-security-best-practices",
-                "stars": 1247
+                "stars": 1248
               }
             }
           ],
@@ -1153,7 +1153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:01:42.830Z",
+    "last_updated": "2026-08-25T05:53:58.909Z",
     "original_repository": "lirantal/awesome-nodejs-security",
     "original_repository_id": 154401464,
     "original_repository_sha": "70d4d24e8f42a5120c6423267d1262f42962b4ba",
