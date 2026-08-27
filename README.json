@@ -99,7 +99,7 @@
                 "last_commit": "2025-09-17T20:31:20Z",
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13382
+                "stars": 13383
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-24T17:09:00Z",
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2738
+                "stars": 2739
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-08-24T09:04:40Z",
                 "owner": "NodeSecure",
                 "repo": "js-x-ray",
-                "stars": 286
+                "stars": 287
               }
             },
             {
@@ -336,7 +336,7 @@
                 "archived": false,
                 "id": 534521237,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T01:54:47Z",
+                "last_commit": "2026-08-27T17:33:33Z",
                 "owner": "yoavain",
                 "repo": "fix-lockfile-integrity",
                 "stars": 6
@@ -450,7 +450,7 @@
                 "last_commit": "2026-08-27T03:20:16Z",
                 "owner": "zizmorcore",
                 "repo": "zizmor",
-                "stars": 6398
+                "stars": 6401
               }
             },
             {
@@ -507,7 +507,7 @@
                 "archived": false,
                 "id": 1194046227,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T13:21:19Z",
+                "last_commit": "2026-08-27T13:00:22Z",
                 "owner": "OWASP",
                 "repo": "cve-lite-cli",
                 "stars": 680
@@ -619,7 +619,7 @@
                 "archived": false,
                 "id": 162776776,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T18:08:24Z",
+                "last_commit": "2026-08-27T14:10:28Z",
                 "owner": "LavaMoat",
                 "repo": "LavaMoat",
                 "stars": 1217
@@ -637,7 +637,7 @@
                 "last_commit": "2026-08-27T04:29:44Z",
                 "owner": "endojs",
                 "repo": "endo",
-                "stars": 1050
+                "stars": 1051
               }
             },
             {
@@ -667,7 +667,7 @@
                 "last_commit": "2026-08-12T21:15:56Z",
                 "owner": "fastify",
                 "repo": "fastify-rate-limit",
-                "stars": 599
+                "stars": 600
               }
             },
             {
@@ -924,7 +924,7 @@
                 "archived": false,
                 "id": 23088740,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T07:39:33Z",
+                "last_commit": "2026-08-27T15:40:25Z",
                 "owner": "axios",
                 "repo": "axios",
                 "stars": 109193
@@ -939,7 +939,7 @@
                 "archived": false,
                 "id": 476642602,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:55:28Z",
+                "last_commit": "2026-08-27T18:28:54Z",
                 "owner": "web-infra-dev",
                 "repo": "rspack",
                 "stars": 12872
@@ -1014,10 +1014,10 @@
                 "archived": false,
                 "id": 35866694,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T07:06:10Z",
+                "last_commit": "2026-08-27T19:51:45Z",
                 "owner": "RocketChat",
                 "repo": "Rocket.Chat",
-                "stars": 46034
+                "stars": 46035
               }
             },
             {
@@ -1090,7 +1090,7 @@
                 "last_commit": "2026-05-24T18:40:02Z",
                 "owner": "lirantal",
                 "repo": "npm-security-best-practices",
-                "stars": 1248
+                "stars": 1249
               }
             }
           ],
@@ -1153,7 +1153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:57:32.289Z",
+    "last_updated": "2026-08-27T19:53:35.970Z",
     "original_repository_info": {
       "archived": false,
       "id": 154401464,
