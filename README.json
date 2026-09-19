@@ -175,7 +175,7 @@
                 "open_issues": 131,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13397,
+                "stars": 13400,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:54.794Z"
@@ -196,7 +196,7 @@
                 "open_issues": 18,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2744,
+                "stars": 2745,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -272,7 +272,7 @@
                 "open_issues": 33,
                 "owner": "DataDog",
                 "repo": "guarddog",
-                "stars": 1209,
+                "stars": 1210,
                 "topics": [
                   "malicious-packages",
                   "npm",
@@ -328,7 +328,7 @@
                 "open_issues": 7,
                 "owner": "lirantal",
                 "repo": "lockfile-lint",
-                "stars": 868,
+                "stars": 869,
                 "topics": [
                   "hacktoberfest",
                   "lint",
@@ -609,7 +609,7 @@
                 "id": 534521237,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T02:35:06Z",
+                "last_commit": "2026-09-19T10:03:05Z",
                 "open_issues": 4,
                 "owner": "yoavain",
                 "repo": "fix-lockfile-integrity",
@@ -669,11 +669,11 @@
                 "id": 16927692,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T07:00:27Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-19T12:23:41Z",
+                "open_issues": 0,
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17402,
+                "stars": 17405,
                 "topics": [
                   "cross-site-scripting",
                   "dom",
@@ -795,7 +795,7 @@
                 "open_issues": 162,
                 "owner": "zizmorcore",
                 "repo": "zizmor",
-                "stars": 6532,
+                "stars": 6536,
                 "topics": [
                   "github-actions",
                   "security",
@@ -821,7 +821,7 @@
                 "open_issues": 0,
                 "owner": "lirantal",
                 "repo": "is-website-vulnerable",
-                "stars": 2039,
+                "stars": 2041,
                 "topics": [
                   "hacktoberfest",
                   "lighthouse",
@@ -850,7 +850,7 @@
                 "open_issues": 6,
                 "owner": "lirantal",
                 "repo": "npq",
-                "stars": 1793,
+                "stars": 1795,
                 "topics": [
                   "appsec",
                   "best-practices",
@@ -912,11 +912,11 @@
                 "id": 1194046227,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T21:14:36Z",
+                "last_commit": "2026-09-18T21:43:25Z",
                 "open_issues": 40,
                 "owner": "OWASP",
                 "repo": "cve-lite-cli",
-                "stars": 695,
+                "stars": 716,
                 "topics": [
                   "appsec",
                   "cve",
@@ -1113,8 +1113,8 @@
                 "id": 162776776,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T10:05:28Z",
-                "open_issues": 227,
+                "last_commit": "2026-09-19T01:32:00Z",
+                "open_issues": 224,
                 "owner": "LavaMoat",
                 "repo": "LavaMoat",
                 "stars": 1222,
@@ -1138,7 +1138,7 @@
                 "open_issues": 540,
                 "owner": "endojs",
                 "repo": "endo",
-                "stars": 1060,
+                "stars": 1061,
                 "topics": [
                   "capabilities",
                   "captp",
@@ -1303,7 +1303,7 @@
                 "open_issues": 14,
                 "owner": "sigcli",
                 "repo": "sigcli",
-                "stars": 291,
+                "stars": 292,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:54.794Z"
@@ -1627,10 +1627,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-16T19:05:23Z",
-                "open_issues": 90,
+                "open_issues": 91,
                 "owner": "axios",
                 "repo": "axios",
-                "stars": 109206,
+                "stars": 109207,
                 "topics": [
                   "hacktoberfest",
                   "http-client",
@@ -1653,8 +1653,8 @@
                 "id": 476642602,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-18T13:03:19Z",
-                "open_issues": 219,
+                "last_commit": "2026-09-19T09:55:50Z",
+                "open_issues": 224,
                 "owner": "web-infra-dev",
                 "repo": "rspack",
                 "stars": 12910,
@@ -1715,7 +1715,7 @@
                 "open_issues": 14,
                 "owner": "faisalman",
                 "repo": "ua-parser-js",
-                "stars": 10189,
+                "stars": 10188,
                 "topics": [
                   "analytics",
                   "bot-detection",
@@ -1783,11 +1783,11 @@
                 "id": 35866694,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T13:38:01Z",
-                "open_issues": 4072,
+                "last_commit": "2026-09-19T11:59:46Z",
+                "open_issues": 4083,
                 "owner": "RocketChat",
                 "repo": "Rocket.Chat",
-                "stars": 46138,
+                "stars": 46146,
                 "topics": [
                   "chat",
                   "collaboration",
@@ -1816,7 +1816,7 @@
                 "id": 15639771,
                 "language": "TypeScript",
                 "license": "ISC",
-                "last_commit": "2026-09-17T21:53:51Z",
+                "last_commit": "2026-09-18T21:58:04Z",
                 "open_issues": 31,
                 "owner": "conventional-changelog",
                 "repo": "conventional-changelog",
@@ -1882,7 +1882,7 @@
                 "open_issues": 22,
                 "owner": "lirantal",
                 "repo": "awesome-nodejs-security",
-                "stars": 3041,
+                "stars": 3039,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1989,7 +1989,7 @@
                 "open_issues": 106,
                 "owner": "OWASP",
                 "repo": "NodeGoat",
-                "stars": 2066,
+                "stars": 2067,
                 "topics": [
                   "docker",
                   "heroku",
@@ -2013,7 +2013,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T13:40:55.789Z",
+    "last_updated": "2026-09-19T13:13:47.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Node.js Security resources",
@@ -2025,7 +2025,7 @@
       "open_issues": 22,
       "owner": "lirantal",
       "repo": "awesome-nodejs-security",
-      "stars": 3041,
+      "stars": 3039,
       "topics": [
         "awesome",
         "awesome-list",
