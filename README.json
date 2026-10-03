@@ -175,7 +175,7 @@
                 "open_issues": 132,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13409,
+                "stars": 13410,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:54.794Z"
@@ -196,7 +196,7 @@
                 "open_issues": 26,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2753,
+                "stars": 2755,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -301,7 +301,7 @@
                 "open_issues": 80,
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1008,
+                "stars": 1009,
                 "topics": [
                   "linter",
                   "sdl",
@@ -609,7 +609,7 @@
                 "id": 534521237,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T05:40:08Z",
+                "last_commit": "2026-10-03T00:34:31Z",
                 "open_issues": 3,
                 "owner": "yoavain",
                 "repo": "fix-lockfile-integrity",
@@ -669,11 +669,11 @@
                 "id": 16927692,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T10:09:01Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-02T22:07:21Z",
+                "open_issues": 8,
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17433,
+                "stars": 17432,
                 "topics": [
                   "cross-site-scripting",
                   "dom",
@@ -795,7 +795,7 @@
                 "open_issues": 162,
                 "owner": "zizmorcore",
                 "repo": "zizmor",
-                "stars": 6624,
+                "stars": 6631,
                 "topics": [
                   "github-actions",
                   "security",
@@ -821,7 +821,7 @@
                 "open_issues": 0,
                 "owner": "lirantal",
                 "repo": "is-website-vulnerable",
-                "stars": 2043,
+                "stars": 2044,
                 "topics": [
                   "hacktoberfest",
                   "lighthouse",
@@ -913,7 +913,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T12:07:09Z",
-                "open_issues": 54,
+                "open_issues": 57,
                 "owner": "OWASP",
                 "repo": "cve-lite-cli",
                 "stars": 752,
@@ -1114,7 +1114,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T01:41:57Z",
-                "open_issues": 224,
+                "open_issues": 225,
                 "owner": "LavaMoat",
                 "repo": "LavaMoat",
                 "stars": 1236,
@@ -1134,7 +1134,7 @@
                 "id": 220080707,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T05:25:54Z",
+                "last_commit": "2026-10-03T04:15:49Z",
                 "open_issues": 539,
                 "owner": "endojs",
                 "repo": "endo",
@@ -1232,7 +1232,7 @@
                 "open_issues": 21,
                 "owner": "AdamPflug",
                 "repo": "express-brute",
-                "stars": 566,
+                "stars": 565,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:54.794Z"
@@ -1300,7 +1300,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-28T04:47:19Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "sigcli",
                 "repo": "sigcli",
                 "stars": 294,
@@ -1391,7 +1391,7 @@
                 "open_issues": 8,
                 "owner": "hengkiardo",
                 "repo": "express-enforces-ssl",
-                "stars": 194,
+                "stars": 193,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:54.794Z"
@@ -1626,11 +1626,11 @@
                 "id": 23088740,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T12:13:01Z",
-                "open_issues": 100,
+                "last_commit": "2026-10-02T19:00:49Z",
+                "open_issues": 99,
                 "owner": "axios",
                 "repo": "axios",
-                "stars": 109244,
+                "stars": 109246,
                 "topics": [
                   "hacktoberfest",
                   "http-client",
@@ -1653,11 +1653,11 @@
                 "id": 476642602,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-02T05:49:15Z",
-                "open_issues": 243,
+                "last_commit": "2026-10-03T01:31:15Z",
+                "open_issues": 248,
                 "owner": "web-infra-dev",
                 "repo": "rspack",
-                "stars": 12930,
+                "stars": 12932,
                 "topics": [
                   "build-tool",
                   "bundler",
@@ -1706,7 +1706,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "UAParser.js: The Go-To User-Agent Tool for Teams That Build the Web. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser or Node",
+                "description": "UAParser.js: The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser or Node",
                 "homepage": "https://uaparser.dev/",
                 "id": 3320710,
                 "language": "JavaScript",
@@ -1783,11 +1783,11 @@
                 "id": 35866694,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T15:31:48Z",
-                "open_issues": 4182,
+                "last_commit": "2026-10-03T02:40:03Z",
+                "open_issues": 4173,
                 "owner": "RocketChat",
                 "repo": "Rocket.Chat",
-                "stars": 46203,
+                "stars": 46207,
                 "topics": [
                   "chat",
                   "collaboration",
@@ -1868,41 +1868,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "A Roadmap for Node.js Security",
-              "description": "(original domain https://nodesecroadmap.fyi/ not available. See #42)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Awesome Node.js Security resources",
-                "homepage": null,
-                "id": 154401464,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-08-14T17:07:08Z",
-                "open_issues": 24,
-                "owner": "lirantal",
-                "repo": "awesome-nodejs-security",
-                "stars": 3043,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "cybersecurity",
-                  "hacktoberfest",
-                  "infosec",
-                  "nodejs",
-                  "owasp",
-                  "pentest",
-                  "security",
-                  "vulnerabilities",
-                  "web-security"
-                ]
-              },
-              "first_seen": "2026-08-28T20:56:54.794Z"
-            },
-            {
-              "node_type": "item",
               "title": "npm Security Best Practices",
-              "description": null,
+              "description": "lirantal/npm-security-best-practices",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2013,7 +1980,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:53:12.813Z",
+    "last_updated": "2026-10-03T05:00:01.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Node.js Security resources",
