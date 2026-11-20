@@ -21,7 +21,7 @@
                 "open_issues": 72,
                 "owner": "Baroshem",
                 "repo": "nuxt-security",
-                "stars": 986,
+                "stars": 985,
                 "topics": [
                   "basic-authentication",
                   "cors",
@@ -55,7 +55,7 @@
                 "open_issues": 4,
                 "owner": "fastify",
                 "repo": "fastify-helmet",
-                "stars": 466,
+                "stars": 465,
                 "topics": [
                   "fastify",
                   "fastify-plugin"
@@ -175,7 +175,7 @@
                 "open_issues": 131,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13446,
+                "stars": 13450,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:54.794Z"
@@ -192,8 +192,8 @@
                 "id": 542197924,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-16T14:41:53Z",
-                "open_issues": 27,
+                "last_commit": "2026-11-20T16:05:17Z",
+                "open_issues": 28,
                 "owner": "Bearer",
                 "repo": "bearer",
                 "stars": 2796,
@@ -237,7 +237,7 @@
                 "open_issues": 11,
                 "owner": "ajinabraham",
                 "repo": "nodejsscan",
-                "stars": 2577,
+                "stars": 2576,
                 "topics": [
                   "code-analysis",
                   "code-review",
@@ -272,7 +272,7 @@
                 "open_issues": 52,
                 "owner": "DataDog",
                 "repo": "guarddog",
-                "stars": 1260,
+                "stars": 1263,
                 "topics": [
                   "malicious-packages",
                   "npm",
@@ -301,7 +301,7 @@
                 "open_issues": 69,
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1019,
+                "stars": 1018,
                 "topics": [
                   "linter",
                   "sdl",
@@ -328,7 +328,7 @@
                 "open_issues": 7,
                 "owner": "lirantal",
                 "repo": "lockfile-lint",
-                "stars": 872,
+                "stars": 871,
                 "topics": [
                   "hacktoberfest",
                   "lint",
@@ -358,7 +358,7 @@
                 "open_issues": 14,
                 "owner": "NodeSecure",
                 "repo": "cli",
-                "stars": 386,
+                "stars": 385,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:54.794Z"
@@ -559,7 +559,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-19T07:18:50Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "lirantal",
                 "repo": "repolyze",
                 "stars": 60,
@@ -609,8 +609,8 @@
                 "id": 1083987889,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-19T13:57:11Z",
-                "open_issues": 31,
+                "last_commit": "2026-11-20T17:10:22Z",
+                "open_issues": 30,
                 "owner": "ofri-peretz",
                 "repo": "eslint",
                 "stars": 20,
@@ -677,10 +677,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-11T10:17:07Z",
-                "open_issues": 567,
+                "open_issues": 569,
                 "owner": "validatorjs",
                 "repo": "validator.js",
-                "stars": 23743,
+                "stars": 23741,
                 "topics": [
                   "hacktoberfest",
                   "input",
@@ -712,7 +712,7 @@
                 "open_issues": 0,
                 "owner": "cure53",
                 "repo": "DOMPurify",
-                "stars": 17538,
+                "stars": 17537,
                 "topics": [
                   "cross-site-scripting",
                   "dom",
@@ -745,7 +745,7 @@
                 "open_issues": 6,
                 "owner": "af",
                 "repo": "envalid",
-                "stars": 1591,
+                "stars": 1590,
                 "topics": [
                   "bun",
                   "environment",
@@ -834,7 +834,7 @@
                 "open_issues": 176,
                 "owner": "zizmorcore",
                 "repo": "zizmor",
-                "stars": 7096,
+                "stars": 7101,
                 "topics": [
                   "github-actions",
                   "security",
@@ -860,7 +860,7 @@
                 "open_issues": 0,
                 "owner": "lirantal",
                 "repo": "is-website-vulnerable",
-                "stars": 2043,
+                "stars": 2042,
                 "topics": [
                   "hacktoberfest",
                   "lighthouse",
@@ -889,7 +889,7 @@
                 "open_issues": 6,
                 "owner": "lirantal",
                 "repo": "npq",
-                "stars": 1796,
+                "stars": 1795,
                 "topics": [
                   "appsec",
                   "best-practices",
@@ -919,11 +919,11 @@
                 "id": 1194046227,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-19T14:02:05Z",
-                "open_issues": 124,
+                "last_commit": "2026-11-20T17:07:39Z",
+                "open_issues": 125,
                 "owner": "OWASP",
                 "repo": "cve-lite-cli",
-                "stars": 800,
+                "stars": 801,
                 "topics": [
                   "appsec",
                   "cve",
@@ -964,7 +964,7 @@
                 "open_issues": 16,
                 "owner": "visma-prodsec",
                 "repo": "confused",
-                "stars": 794,
+                "stars": 793,
                 "topics": [
                   "confusion-detection",
                   "infosec",
@@ -1152,7 +1152,7 @@
                 "id": 162776776,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T21:58:29Z",
+                "last_commit": "2026-11-20T03:03:50Z",
                 "open_issues": 225,
                 "owner": "LavaMoat",
                 "repo": "LavaMoat",
@@ -1177,7 +1177,7 @@
                 "open_issues": 540,
                 "owner": "endojs",
                 "repo": "endo",
-                "stars": 1076,
+                "stars": 1075,
                 "topics": [
                   "capabilities",
                   "captp",
@@ -1292,7 +1292,7 @@
                 "open_issues": 7,
                 "owner": "nodejs",
                 "repo": "is-my-node-vulnerable",
-                "stars": 336,
+                "stars": 335,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:54.794Z"
@@ -1309,11 +1309,11 @@
                 "id": 498881798,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-18T20:00:40Z",
+                "last_commit": "2026-11-19T19:59:10Z",
                 "open_issues": 0,
                 "owner": "firefart",
                 "repo": "hijagger",
-                "stars": 308,
+                "stars": 307,
                 "topics": [
                   "bugbounty",
                   "golang",
@@ -1388,7 +1388,7 @@
                 "open_issues": 8,
                 "owner": "WebDecoy",
                 "repo": "FCaptcha",
-                "stars": 245,
+                "stars": 253,
                 "topics": [
                   "ai-bot-detection",
                   "anti-bot",
@@ -1430,7 +1430,7 @@
                 "open_issues": 8,
                 "owner": "hengkiardo",
                 "repo": "express-enforces-ssl",
-                "stars": 194,
+                "stars": 193,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:54.794Z"
@@ -1600,11 +1600,11 @@
                 "id": 75093520,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-28T13:54:23Z",
-                "open_issues": 25,
+                "last_commit": "2026-11-20T01:59:25Z",
+                "open_issues": 26,
                 "owner": "nodejs",
                 "repo": "security-wg",
-                "stars": 550,
+                "stars": 549,
                 "topics": [
                   "node",
                   "nodejs"
@@ -1666,10 +1666,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-19T11:11:41Z",
-                "open_issues": 146,
+                "open_issues": 132,
                 "owner": "axios",
                 "repo": "axios",
-                "stars": 109386,
+                "stars": 109387,
                 "topics": [
                   "hacktoberfest",
                   "http-client",
@@ -1692,11 +1692,11 @@
                 "id": 476642602,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-19T16:40:25Z",
+                "last_commit": "2026-11-20T16:15:12Z",
                 "open_issues": 242,
                 "owner": "web-infra-dev",
                 "repo": "rspack",
-                "stars": 12986,
+                "stars": 12987,
                 "topics": [
                   "build-tool",
                   "bundler",
@@ -1754,7 +1754,7 @@
                 "open_issues": 18,
                 "owner": "faisalman",
                 "repo": "ua-parser-js",
-                "stars": 10215,
+                "stars": 10214,
                 "topics": [
                   "analytics",
                   "bot-detection",
@@ -1784,7 +1784,7 @@
                 "open_issues": 7,
                 "owner": "dominictarr",
                 "repo": "event-stream",
-                "stars": 2171,
+                "stars": 2170,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:54.794Z"
@@ -1822,11 +1822,11 @@
                 "id": 35866694,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T18:22:47Z",
-                "open_issues": 4438,
+                "last_commit": "2026-11-20T17:43:18Z",
+                "open_issues": 4429,
                 "owner": "RocketChat",
                 "repo": "Rocket.Chat",
-                "stars": 46509,
+                "stars": 46512,
                 "topics": [
                   "chat",
                   "collaboration",
@@ -1859,7 +1859,7 @@
                 "open_issues": 24,
                 "owner": "conventional-changelog",
                 "repo": "conventional-changelog",
-                "stars": 8534,
+                "stars": 8532,
                 "topics": [
                   "changelog",
                   "git",
@@ -1921,7 +1921,7 @@
                 "open_issues": 5,
                 "owner": "lirantal",
                 "repo": "npm-security-best-practices",
-                "stars": 1269,
+                "stars": 1270,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1995,7 +1995,7 @@
                 "open_issues": 117,
                 "owner": "OWASP",
                 "repo": "NodeGoat",
-                "stars": 2084,
+                "stars": 2083,
                 "topics": [
                   "docker",
                   "heroku",
@@ -2019,7 +2019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T18:24:12.388Z",
+    "last_updated": "2026-11-20T17:53:54.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Node.js Security resources",
@@ -2031,7 +2031,7 @@
       "open_issues": 3,
       "owner": "lirantal",
       "repo": "awesome-nodejs-security",
-      "stars": 3064,
+      "stars": 3063,
       "topics": [
         "awesome",
         "awesome-list",
